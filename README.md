@@ -1,1 +1,3 @@
-# Supermarket-Billing-System
+# Supermarket Billing Software
+Mini Project in C++
+
