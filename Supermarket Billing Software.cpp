@@ -146,8 +146,8 @@ void introduction()    //introduction function
  	cout<<"\n\t\t\t\t\t\t---------------SUPER MARKET BILLING PROJECT----------------\n";
   	cout<<"\t\t\t\t\t\t"<<setfill('=')<<setw(60)<<"=";
   	cout<<"\n\n";
-  	cout<<"\t\t\t\t\t\tMADE BY:\n\n\t\t\t\t\t\tMAYUR DESHMUKH \n\t\t\t\t\t\tANDREW KAMBLE \n\t\t\t\t\t\tHUSAIN ABIALI \n\t\t\t\t\t\tATHARVA THORAT \n\t\t\t\t\t\tRAJAT DEORE";
-  	cout<<"\n\n\n\t\t\t\t\t\tCOLLEGE:KK WAGH INSTITUTE OF ENGINEERING EDUCATION & RESEARCH\n";
+  	cout<<"\t\t\t\t\t\tMADE BY:\n\n\t\t\t\t\t\tSHIVANGI SHIKHA";
+  	cout<<"\n\n\n\t\t\t\t\t\tCOLLEGE:NIT Raipur\n";
   
 }
 	
